@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
-//this is the main method
+//this is the main method naveen
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
